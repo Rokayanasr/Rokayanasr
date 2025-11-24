@@ -31,7 +31,7 @@ I also work with Node.js, Express, and MongoDB for backend development.
 
 ### **Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="45" />
+  <img src="https://skillicons.dev/icons?i=git,github" height="45" />
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=fff" height="28" />
 </p>
 
