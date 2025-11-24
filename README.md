@@ -1,13 +1,13 @@
 <!-- Typing Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FFD700&center=true&vCenter=true&width=650&lines=Hi+I'm+Rokaya;Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Clean+Modern+and+Realtime+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FFD700&center=true&vCenter=true&width=650&lines=Hi+I'm+Rokaya;Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;" />
 </div>
 
 ---
 
 ## About Me
 I’m a Frontend Developer focused on creating clean, modern, and fast web applications.  
-I specialize in React, Next.js, and Angular, with strong experience in TypeScript, UI development, and responsive interfaces, building **realtime applications** with seamless user .  
+I specialize in React, Next.js, and Angular, with strong experience in TypeScript, UI development, and responsive interfaces, building **realtime applications** with seamless user experience.  
 I also work with Node.js, Express, and MongoDB for backend development.
 
 ---
