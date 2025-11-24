@@ -5,12 +5,12 @@
 
 ---
 
-## About Me
+<!-- ## About Me
 I’m a Frontend Developer focused on creating clean, modern, and fast web applications.  
 I specialize in React, Next.js, and Angular, with strong experience in TypeScript, UI development, and responsive interfaces, building **realtime applications** with seamless user experience.  
 I also work with Node.js, Express, and MongoDB for backend development.
 
----
+--- -->
 
 ## Tech Stack
 
@@ -78,6 +78,6 @@ I also work with Node.js, Express, and MongoDB for backend development.
 ---
 
 <div align="center">
-  <strong>Thanks for visiting my profile</strong><br/>
+  <!--<strong>Thanks for visiting my profile</strong><br/>-->
   <em>Always open to collaboration and new opportunities.</em>
 </div>
